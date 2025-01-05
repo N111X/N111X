@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N111X</h1>
-<h3 align="center">Self-taught developer focused on offensive cybersecurity, beginner in malware analysis and development. I enjoy programming. My goal is to create innovative tools that redefine digital security standards, excelling in post-exploitation techniques and defense evasion.</h3>
+<h3 align="center">If you know reverse engineering, everthing is open source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n111x&label=Profile%20views&color=0e75b6&style=flat" alt="n111x" /> </p>
 
