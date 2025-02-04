@@ -26,16 +26,33 @@
 
 ---
 
+
 ### ⚡ Malware & Security Tools  
 <p align="left">
   <strong>Programming Languages:</strong><br>
-  <a href="https://en.cppreference.com/w/c/language" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
- <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Assembly_icon.svg/64px-Assembly_icon.svg.png" alt="Assembly" width="40" height="40"/>
-</a>
-  <a href="https://golang.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/></a>
+  <a href="https://en.cppreference.com/w/c/language" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Assembly_icon.svg/64px-Assembly_icon.svg.png" alt="Assembly" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org/doc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://www.haskell.org/documentation/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
