@@ -28,18 +28,11 @@
 
 ### ⚡ Malware & Security Tools  
 <p align="left">
-  <strong>Reverse Engineering:</strong><br>
+  <strong>Programming Languages:</strong><br>
   <a href="https://en.cppreference.com/w/c/language" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.felixcloutier.com/x86/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/></a>
-  <a href="https://ghidra-sre.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" alt="Ghidra" width="40" height="40"/></a><br>
-
-  <strong>Programming:</strong><br>
   <a href="https://golang.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/></a><br>
-
-  <strong>Tools:</strong><br>
-  <a href="https://www.docker.com/resources/what-container" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://yara.readthedocs.io/en/stable/" target="_blank"><img src="https://www.vectorlogo.zone/logos/yara/yara-icon.svg" alt="YARA" width="40" height="40"/></a>
+  <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/></a>
 </p>
 
 ---
