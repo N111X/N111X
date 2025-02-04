@@ -27,28 +27,15 @@
 ---
 
 ### ⚡ Languages & Tools
-⚡ Malware & Security Tools
-Reverse Engineering & Analysis
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "C" width="40" height="40")
-![Assembly](https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg "Assembly" width="40" height="40")
-![Ghidra](https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg "Ghidra" width="40" height="40")
-![IDA Pro](https://www.vectorlogo.zone/logos/ida/ida-icon.svg "IDA Pro" width="40" height="40")
-![Radare2](https://raw.githubusercontent.com/radareorg/radare2/master/doc/img/radare2.svg "Radare2" width="40" height="40")
-![Wireshark](https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg "Wireshark" width="40" height="40")
-![YARA](https://www.vectorlogo.zone/logos/yara/yara-icon.svg "YARA" width="40" height="40")
 
-Programming & Exploitation
-![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg "Go" width="40" height="40")
-![Haskell](https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg "Haskell" width="40" height="40")
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python" width="40" height="40")
-![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg "Rust" width="40" height="40")
-![Metasploit](https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg "Metasploit" width="40" height="40")
+### 🛠️ Tools & Languages  
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg "Go" width="30") 
+![Haskell](https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg "Haskell" width="30") 
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "C" width="30") 
+![IDA Pro](https://www.vectorlogo.zone/logos/ida/ida-icon.svg "IDA Pro" width="30") 
+![Radare2](https://radare.org/img/r2logo.png "Radare2" width="30") 
+![YARA](https://www.vectorlogo.zone/logos/yara/yara-icon.svg "YARA" width="30")
 
-Security & Systems
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "Linux" width="40" height="40")
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker" width="40" height="40")
-![VirtualBox](https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg "VirtualBox" width="40" height="40")
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg "Bash" width="40" height="40")
 ---
 
 ### 📊 GitHub Stats
