@@ -26,15 +26,27 @@
 
 ---
 
-### ⚡ Languages & Tools
-
-### 🛠️ Tools & Languages  
-![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg "Go" width="30") 
-![Haskell](https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg "Haskell" width="30") 
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "C" width="30") 
-![IDA Pro](https://www.vectorlogo.zone/logos/ida/ida-icon.svg "IDA Pro" width="30") 
-![Radare2](https://radare.org/img/r2logo.png "Radare2" width="30") 
-![YARA](https://www.vectorlogo.zone/logos/yara/yara-icon.svg "YARA" width="30")
+### ⚡ Malware & Security Tools  
+<p align="left">
+  <strong>Reverse Engineering:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" alt="Ghidra" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ida/ida-icon.svg" alt="IDA Pro" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/img/radare2.svg" alt="Radare2" width="40" height="40"/>
+  
+  <strong>Programming:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  
+  <strong>Tools:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/yara/yara-icon.svg" alt="YARA" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
+</p>
 
 ---
 
