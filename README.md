@@ -36,7 +36,7 @@
   <a href="https://en.cppreference.com/w/cpp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <a href="https://www.nasm.us/" target="_blank">
     <img src="https://www.nasm.us/images/nasm.png" alt="NASM Assembly" width="40" height="40"/>
   </a>
   <a href="https://golang.org/doc/" target="_blank">
@@ -51,7 +51,17 @@
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="40" height="40"/>
   </a>
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
