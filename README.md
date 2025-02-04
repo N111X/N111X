@@ -27,30 +27,14 @@
 ---
 
 ### ⚡ Languages & Tools
-
 <p align="left">
-  <!-- Programación -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
-
-  <!-- Análisis de Malware -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gdb/gdb-original.svg" alt="GDB" width="40" height="40"/> <!-- GDB Debugger -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ida/ida-original.svg" alt="IDA" width="40" height="40"/> <!-- IDA Pro -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/olight/olight-original.svg" alt="OllyDbg" width="40" height="40"/> <!-- OllyDbg -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hexo/hexo-original.svg" alt="Hex Editor" width="40" height="40"/> <!-- Hex Editor -->
-  
-  <!-- Desarrollo de Malware -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <!-- Docker (para entornos aislados) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="VirtualBox" width="40" height="40"/> <!-- VirtualBox -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/> <!-- Kali Linux (pentesting) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/> <!-- Wireshark -->
-  
-  <!-- Otros -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
 </p>
-
 
 ---
 
