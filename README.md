@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bienvenido a mi perfil - N111X</title>
-    <style>
-        body {
-            background-color: #1e1e1e;
-            color: #00ff00;
-            font-family: 'Courier New', monospace;
-            margin: 0;
-            padding: 0;
-            font-size: 18px;
-        }
-        h1, h3 {
-            text-align: center;
-            color: #00ff00;
-        }
-        h2 {
-            color: #00ff00;
-            margin-top: 20px;
-        }
-        p {
-            text-align: center;
-        }
-        a {
-            color: #00ff00;
-            text-decoration: none;
-        }
-        .icon {
-            width: 40px;
-            height: 40px;
-        }
-        .links, .stats, .tools {
-            display: flex;
-            justify-content: center;
-            margin-top: 10px;
-        }
-        .link {
-            margin: 0 10px;
-        }
-        .footer {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 14px;
-            color: #666;
-        }
-        .stats img {
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>👋 Hi, I'm N111X</h1>
     <h3>"If you know reverse engineering, everything is open source."</h3>
@@ -130,6 +77,3 @@
     <div class="footer">
         <p>¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y aprender junto conmigo en esta apasionante travesía de hacking y ciberseguridad.</p>
     </div>
-
-</body>
-</html>
