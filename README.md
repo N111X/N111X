@@ -28,29 +28,27 @@
 
 ### ⚡ Languages & Tools
 ⚡ Malware & Security Tools
-<p align="left"> **Reverse Engineering & Analysis** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" alt="Ghidra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ida/ida-icon.svg" alt="IDA Pro" width="40" height="40"/> <img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/img/radare2.svg" alt="Radare2" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/yara/yara-icon.svg" alt="YARA" width="40" height="40"/>
+Reverse Engineering & Analysis
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "C" width="40" height="40")
+![Assembly](https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg "Assembly" width="40" height="40")
+![Ghidra](https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg "Ghidra" width="40" height="40")
+![IDA Pro](https://www.vectorlogo.zone/logos/ida/ida-icon.svg "IDA Pro" width="40" height="40")
+![Radare2](https://raw.githubusercontent.com/radareorg/radare2/master/doc/img/radare2.svg "Radare2" width="40" height="40")
+![Wireshark](https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg "Wireshark" width="40" height="40")
+![YARA](https://www.vectorlogo.zone/logos/yara/yara-icon.svg "YARA" width="40" height="40")
+
 Programming & Exploitation
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/cuckoosandbox/cuckoosandbox-icon.svg" alt="Cuckoo Sandbox" width="40" height="40"/>
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg "Go" width="40" height="40")
+![Haskell](https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg "Haskell" width="40" height="40")
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python" width="40" height="40")
+![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg "Rust" width="40" height="40")
+![Metasploit](https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg "Metasploit" width="40" height="40")
 
 Security & Systems
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="VirtualBox" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/ole2/ole2-icon.svg" alt="PE Format" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-
-Cryptography & Packers
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="OpenSSL" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/upx/upx-icon.svg" alt="UPX" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/impacket/impacket-icon.svg" alt="Impacket" width="40" height="40"/>
-
-</p>
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "Linux" width="40" height="40")
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker" width="40" height="40")
+![VirtualBox](https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg "VirtualBox" width="40" height="40")
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg "Bash" width="40" height="40")
 ---
 
 ### 📊 GitHub Stats
