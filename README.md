@@ -92,8 +92,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/N111X/N111X/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
