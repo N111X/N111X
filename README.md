@@ -1,84 +1,107 @@
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyNnlhbnFyYnQwd3J4aXRuMWVkMGlleXgyNTlieTh6bzVjMHA2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h1 align="center">👋 Hi, I'm N111X</h1>
-<h3 align="center">"If you know reverse engineering, everything is open source."</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n111x&label=Profile%20views&color=0e75b6&style=flat" alt="n111x" />
-</p>
+###
 
----
+<br clear="both">
 
-### 🧠 About Me
-- 💻 Focused on **Malware Development** and **Reverse Engineering**  
-- 🖥️ Passionate about **C programming**, **Assembly**, and advanced hacking techniques  
-- 🚀 Always learning, always evolving  
+<h2 align="center">"If you know reverse engineering, everything is open source."<br>n111x</h2>
 
----
+###
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/n1ix_d" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/synixd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/n111x__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@nix-l3v" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/n11ixxor64" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://discord.gg/1318108548319805442" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+<p align="left">🧠 About Me<br>💻 Focused on Malware Development and Reverse Engineering<br>🖥️ Passionate about C programming, Assembly, and advanced hacking techniques<br>🚀 Always learning, always evolving</p>
 
----
+###
 
+<br clear="both">
 
-### ⚡ Malware & Security Tools  
-<p align="left">
-  <strong>Programming Languages:</strong><br>
-  <a href="https://en.cppreference.com/w/c/language" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<div align="center">
+  <a href="https://www.youtube.com/@NIX-l3v" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://x.com/N1IX_D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.nasm.us/" target="_blank">
-    <img src="https://www.nasm.us/images/nasm.png" alt="NASM Assembly" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/synixd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://golang.org/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <a href="https://www.instagram.com/n111x___/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.haskell.org/documentation/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
+  <a href="n11ixxor64@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://discord.gg/bPtqhgvYZA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="40" height="40"/>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N111X&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N111X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/N111X/N111X/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n111x&show_icons=true&theme=tokyonight" alt="n111x GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n111x&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n111x&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n111x&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+###
