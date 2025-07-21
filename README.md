@@ -57,8 +57,5 @@
 
 ---
 
-> 🧬 "Reverse engineers don't read code. They extract meaning."  
-> 🧠 "Mastery requires strategic deconstruction, not just repetition."  
-> 👣 "Follow bytes, not breadcrumbs."
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=79ff97&icon_color=00ffd0" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=tokyonight&hide_border=true&title_color=7effe9" height="180"/> </p>
 ---
