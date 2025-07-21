@@ -1,36 +1,51 @@
 <!-- ── BANNER ─────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=$+ncat+-v+n111x.dev+1337;Connected+to+core;Handshake+complete...;Shell+access+granted" />
+  <!-- GIF animado principal -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyNnlhbnFyYnQwd3J4aXRuMWVkMGlleXgyNTlieTh6bzVjMHA2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.gif" height="200" alt="hacker intro"/>
 </p>
 
 <h1 align="center"><code>n111x</code></h1>
-<blockquote align="center"><em>"Reverse engineering makes everything open source."</em></blockquote>
+<blockquote align="center"><em>Reverse engineering makes everything open source.</em></blockquote>
+
+<!-- ── BADGES RÁPIDOS (shields.io) ────────────────────────────────────── -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/N111X?label=Followers&color=00FF95&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/N111X?label=Stars&color=00FF95&style=flat-square"/>
+  <img src="https://img.shields.io/github/commit-activity/m/N111X?label=Commits%20(last%20month)&color=00FF95&style=flat-square"/>
+</p>
 
 <!-- ── IDENTITY ────────────────────────────────────────────────────────── -->
 ## 🧠 Identity
-- Low‑level hacker &nbsp;•&nbsp; Binary obsidian  
+- Low‑level hacker · Binary obsidian  
 - C / ASM / Rust artisan  
 - Reverse engineer · Systems thinker  
 
 <!-- ── FOCUS ───────────────────────────────────────────────────────────── -->
 ## 🛠 Focus
-- Malware design → evasive payloads, runtime obfuscation  
-- Reverse engineering → dynamic unpacking, API tracing  
-- Exploit dev → heap / ROP / syscall‑level  
-- Consciousness → neuro‑optimization via systems control  
+- **Malware design** &nbsp;→ evasive payloads, runtime obfuscation  
+- **Reverse engineering** &nbsp;→ dynamic unpacking, API tracing  
+- **Exploit dev** &nbsp;→ heap / ROP / syscall‑level  
+- **Consciousness** &nbsp;→ neuro‑optimization via systems control  
 
 <!-- ── ENVIRONMENT ─────────────────────────────────────────────────────── -->
 ## 💻 Environment
 **Languages:** C · ASM · Rust · Go · Python  
 **Editors:** Neovim · VS Code · radare2  
-**Tools:** CMake · Make · objdump · GDB · WinDbg · PowerShell  
+**Tools:** CMake · objdump · GDB · WinDbg · PowerShell  
 **OS:** Arch · Kali · Windows · custom hypervisor  
 
-<!-- ── STATS ───────────────────────────────────────────────────────────── -->
-## 📈 Stats
+<!-- ── STATS (opción A: shields.io siempre vivo) ──────────────────────── -->
+## 📈 Stats (snapshot)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=~%20code%20signal%20trace" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165">
+  <img src="https://img.shields.io/github/languages/top/N111X?label=Top%20language&color=00FF95&style=flat-square"/>
+  <img src="https://img.shields.io/github/repo-size/N111X/N111X?label=Repo%20size&color=00FF95&style=flat-square"/>
+</p>
+
+<!-- ── STATS (opción B: github-readme-stats, si la API funciona) ──────── -->
+<!-- comenta estas dos líneas si alguna vez dejan de cargar -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N111X&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=~/activity" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <!-- ── MODULES ─────────────────────────────────────────────────────────── -->
@@ -42,27 +57,24 @@
 
 <!-- ── CONTACT ─────────────────────────────────────────────────────────── -->
 ## 📡 Contact
-[YouTube](https://www.youtube.com/@NIX-l3v) ·  
-[Twitter](https://x.com/N1IX_D) ·  
-[LinkedIn](https://www.linkedin.com/in/synixd/) ·  
-Mail: <a href="mailto:n11ixxor64@gmail.com">n11ixxor64@gmail.com</a> ·  
+[YouTube](https://www.youtube.com/@NIX-l3v) •  
+[Twitter](https://x.com/N1IX_D) •  
+[LinkedIn](https://www.linkedin.com/in/synixd/) •  
+Mail: <a href="mailto:n11ixxor64@gmail.com">n11ixxor64@gmail.com</a> •  
 Discord: **n111x#1337**
 
-<!-- ── SIGNAL TRACE ────────────────────────────────────────────────────── -->
+<!-- ── MUSIC ───────────────────────────────────────────────────────────── -->
 ## 🎧 Signal Trace
+<!-- shields‑based badge para evitar APIs de terceros que fallen -->
 <p align="center">
-  <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false&width=100%" />
-  </a>
+  <img src="https://img.shields.io/badge/Spotify-%20Live%20stream-green?logo=spotify&logoColor=black&labelColor=111111&color=00FF95&style=flat-square"/>
 </p>
 
 <!-- ── NOTES ───────────────────────────────────────────────────────────── -->
 ## 🔐 Notes
-> Never trust binaries  
-> Stack frames are footprints  
-> Silence ≠ idle  
+> Never trust binaries — stack frames are footprints — silence ≠ idle  
 
-<!-- ── FOOTER ──────────────────────────────────────────────────────────── -->
+<!-- ── FOOTER GIF ──────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:111111&height=90&section=footer&text=n111x&fontColor=00ff99&fontSize=20" />
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" height="120" alt="glitch footer"/>
 </p>
