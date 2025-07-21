@@ -1,61 +1,54 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyNnlhbnFyYnQwd3J4aXRuMWVkMGlleXgyNTlieTh6bzVjMHA2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.gif" height="200"/>
-</div>
-
-<h1 align="center">👾 N111X</h1>
-<h3 align="center"><i>"If you know reverse engineering, everything is open source."</i><br>— n111x</h3>
-
----
-
+<!-- Encabezado críptico tipo terminal -->
 <p align="center">
-  <strong>🧠 Malware Developer | 🧩 Reverse Engineer | 🧬 Hacker Mindset</strong><br>
-  🔬 Focused on low-level programming, binary exploitation, and technical resilience.<br>
-  ⚙️ Mastering C, Assembly, Rust, Go, and the art of offensive engineering.<br>
-  🎯 “Always learning, always evolving.”<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=%24+ncat+-v+n111x.dev+1337;Connected+to+core;Handshake+complete...;Shell+access+granted" />
 </p>
 
----
-
-### 📡 Contact & Socials
-<div align="center">
-  <a href="https://www.youtube.com/@NIX-l3v" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://x.com/N1IX_D" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.linkedin.com/in/synixd/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/n111x___/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="mailto:n11ixxor64@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://discord.gg/bPtqhgvYZA" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-</div>
+<h1 align="center"><code>n111x</code></h1>
+<h3 align="center"><i>"Reverse engineering makes everything open source."</i></h3>
 
 ---
 
-### 🧰 Tech Arsenal
+### 🧠 identity
+```bash
+▚ low-level hacker  |  binary obsidian
+▚ c / asm / rust    |  offensive computation
+▚ reverse engineer  |  systems thinker
+▚ malware design:      evasive payloads, runtime obfuscation
+▚ reverse engineering: dynamic unpacking, API tracing
+▚ exploit dev:         heap / rop / syscall-level
+▚ consciousness:       neuro-optimization via systems control
+languages:   c, asm, rust, go, python
+editors:     nvim, vscode, radare2
+tooling:     cmake, make, objdump, gdb, windbg, powershell
+os:          linux (arch, kali), windows (baremetal), vm (custom hypervisor)
+```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=~%20code%20signal%20trace" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165"> </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,asm,go,rust,python,bash,haskell,ruby,powershell" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,cmake,github,anaconda,windows" />
-</div>
+---
+[ ]   RE toolkit (auto unpack, symbol resolver, syscall tracer)
+[ ]   polymorphic malware loader (C/Rust)
+[ ]   exploit dev templates (ROP chains, gadget finder)
+[ ]   cognitive bootloader: terminal-based journal + profiler
+---
+
+youtube:    https://www.youtube.com/@NIX-l3v
+twitter:    https://x.com/N1IX_D
+linkedin:   https://www.linkedin.com/in/synixd/
+email:      n11ixxor64@gmail.com
+discord:    https://discord.gg/bPtqhgvYZA
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</div>
+<p align="center"> <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false&width=100%" /> </a> </p>
 
 ---
 
-### 🎧 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false" alt="Spotify recently played"/>
-  </a>
-</div>
+▚ never trust binaries
+▚ stack frames are footprints
+▚ silence ≠ idle
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=79ff97&icon_color=00ffd0" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=tokyonight&hide_border=true&title_color=7effe9" height="180"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:111111&height=100&section=footer&text=n111x&fontColor=00ff99&fontSize=20" /> </p> ```
+
 ---
