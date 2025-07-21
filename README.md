@@ -1,98 +1,68 @@
-````md
-<!-- Encabezado críptico tipo terminal -->
+<!-- ── BANNER ─────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=%24+ncat+-v+n111x.dev+1337;Connected+to+core;Handshake+complete...;Shell+access+granted" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=$+ncat+-v+n111x.dev+1337;Connected+to+core;Handshake+complete...;Shell+access+granted" />
 </p>
 
 <h1 align="center"><code>n111x</code></h1>
-<h3 align="center"><i>"Reverse engineering makes everything open source."</i></h3>
+<blockquote align="center"><em>"Reverse engineering makes everything open source."</em></blockquote>
 
----
+<!-- ── IDENTITY ────────────────────────────────────────────────────────── -->
+## 🧠 Identity
+- Low‑level hacker &nbsp;•&nbsp; Binary obsidian  
+- C / ASM / Rust artisan  
+- Reverse engineer · Systems thinker  
 
-### 🧠 identity
-```bash
-▚ low-level hacker  |  binary obsidian
-▚ c / asm / rust    |  offensive computation
-▚ reverse engineer  |  systems thinker
-````
+<!-- ── FOCUS ───────────────────────────────────────────────────────────── -->
+## 🛠 Focus
+- Malware design → evasive payloads, runtime obfuscation  
+- Reverse engineering → dynamic unpacking, API tracing  
+- Exploit dev → heap / ROP / syscall‑level  
+- Consciousness → neuro‑optimization via systems control  
 
----
+<!-- ── ENVIRONMENT ─────────────────────────────────────────────────────── -->
+## 💻 Environment
+**Languages:** C · ASM · Rust · Go · Python  
+**Editors:** Neovim · VS Code · radare2  
+**Tools:** CMake · Make · objdump · GDB · WinDbg · PowerShell  
+**OS:** Arch · Kali · Windows · custom hypervisor  
 
-### 🛠 focus
-
-```txt
-▚ malware design:      evasive payloads, runtime obfuscation
-▚ reverse engineering: dynamic unpacking, API tracing
-▚ exploit dev:         heap / rop / syscall-level
-▚ consciousness:       neuro-optimization via systems control
-```
-
----
-
-### 💻 environment
-
-```bash
-languages:   c, asm, rust, go, python
-editors:     nvim, vscode, radare2
-tooling:     cmake, make, objdump, gdb, windbg, powershell
-os:          linux (arch, kali), windows (baremetal), vm (custom hypervisor)
-```
-
----
-
-### 📈 stats
-
+<!-- ── STATS ───────────────────────────────────────────────────────────── -->
+## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=~%20code%20signal%20trace" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165">
 </p>
 
----
+<!-- ── MODULES ─────────────────────────────────────────────────────────── -->
+## 🧩 Modules in Progress
+- [ ] RE toolkit — auto‑unpack, symbol resolver, syscall tracer  
+- [ ] Polymorphic malware loader (C/Rust)  
+- [ ] Exploit‑dev templates — ROP chains, gadget finder  
+- [ ] Cognitive bootloader — terminal journal & profiler  
 
-### 🧩 modules in progress
+<!-- ── CONTACT ─────────────────────────────────────────────────────────── -->
+## 📡 Contact
+[YouTube](https://www.youtube.com/@NIX-l3v) ·  
+[Twitter](https://x.com/N1IX_D) ·  
+[LinkedIn](https://www.linkedin.com/in/synixd/) ·  
+Mail: <a href="mailto:n11ixxor64@gmail.com">n11ixxor64@gmail.com</a> ·  
+Discord: **n111x#1337**
 
-```txt
-[ ]   RE toolkit (auto unpack, symbol resolver, syscall tracer)
-[ ]   polymorphic malware loader (C/Rust)
-[ ]   exploit dev templates (ROP chains, gadget finder)
-[ ]   cognitive bootloader: terminal-based journal + profiler
-```
-
----
-
-### 📡 contact
-
-```bash
-youtube:    nix-l3v
-twitter:    @n1ix_d
-linkedin:   /in/synixd
-mail:       n11ixxor64@gmail.com
-discord:    n111x#1337
-```
-
----
-
-### 🎧 signal trace
-
+<!-- ── SIGNAL TRACE ────────────────────────────────────────────────────── -->
+## 🎧 Signal Trace
 <p align="center">
   <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false&width=100%" />
   </a>
 </p>
 
----
+<!-- ── NOTES ───────────────────────────────────────────────────────────── -->
+## 🔐 Notes
+> Never trust binaries  
+> Stack frames are footprints  
+> Silence ≠ idle  
 
-### 🔐 notes
-
-```txt
-▚ never trust binaries
-▚ stack frames are footprints
-▚ silence ≠ idle
-```
-
----
-
+<!-- ── FOOTER ──────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:111111&height=100&section=footer&text=n111x&fontColor=00ff99&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:111111&height=90&section=footer&text=n111x&fontColor=00ff99&fontSize=20" />
 </p>
-```
