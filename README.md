@@ -62,10 +62,14 @@ Mail: <a href="mailto:n11ixxor64@gmail.com">n11ixxor64@gmail.com</a>  •
 Discord: **n111x#1337**
 
 <!-- ────────────────────────────  MUSIC  ──────────────────────────────── -->
-## 🎧 Signal Trace
 <!-- Si en algún momento el badge de Spotify se cae, comenta la línea y listo -->
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Now%20Hacking-green?logo=spotify&logoColor=black&labelColor=111111&color=00FF95&style=flat-square"/>
+  <div align="center">
+  <a href="https://open.spotify.com/user/31p7gtifiqew6q5kkcn7gzk4owae">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7gtifiqew6q5kkcn7gzk4owae&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 </p>
 
 <!-- ────────────────────────────  NOTES  ──────────────────────────────── -->
