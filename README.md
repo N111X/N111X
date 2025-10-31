@@ -6,17 +6,6 @@
 
 <br>
 
-```
-███╗   ██╗ ██╗ ██╗ ██╗██╗  ██╗
-████╗  ██║███║███║███║╚██╗██╔╝
-██╔██╗ ██║╚██║╚██║╚██║ ╚███╔╝ 
-██║╚██╗██║ ██║ ██║ ██║ ██╔██╗ 
-██║ ╚████║ ██║ ██║ ██║██╔╝ ██╗
-╚═╝  ╚═══╝ ╚═╝ ╚═╝ ╚═╝╚═╝  ╚═╝
-```
-
-<br>
-
 ### `> LOW-LEVEL HACKER · BINARY ARCHAEOLOGIST · REVERSE ENGINEER`
 
 <br>
@@ -244,6 +233,7 @@ Reverse & develop
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <br>
+
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║  [0x00] Trust nothing — verify every byte                         ║
@@ -257,12 +247,6 @@ Reverse & develop
 <br>
 
 <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" height="100"/>
-
-<br>
-
-```
-[CARRIER SIGNAL LOST]
-```
 
 <br>
 
