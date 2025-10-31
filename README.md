@@ -26,17 +26,15 @@
 
 <br>
 
-</div>
-
 <!-- ═══════════════════════════ ATTACK VECTORS ═══════════════════════════ -->
 
 ## ⚡ ATTACK VECTORS
 
 <br>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x00` **Malware Engineering & Analysis**
 
@@ -51,7 +49,7 @@ Diseño y disección de payloads ofensivos con técnicas de evasión avanzadas.
 <br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x01` **Reverse Engineering**
 
@@ -69,7 +67,7 @@ Arqueología binaria y reconstrucción de lógica desde el silicon hasta el sour
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x02` **Cryptography**
 
@@ -84,7 +82,7 @@ Análisis criptográfico y exploitación de debilidades en primitivas y protocol
 <br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x03` **Exploit Development**
 
@@ -102,7 +100,7 @@ Weaponización de vulnerabilidades desde user-space hasta kernel-level.
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x04` **General Hacking**
 
@@ -117,7 +115,7 @@ Operaciones ofensivas multi-vector en infraestructuras web, red y wireless.
 <br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `0x05` **SCADA & ICS Hacking**
 
@@ -139,13 +137,11 @@ Compromiso de infraestructura crítica y sistemas de control industrial.
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-<div align="center">
-
 ## 🛠️ ARSENAL
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
@@ -247,6 +243,12 @@ Reverse & develop
 <br>
 
 <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" height="100"/>
+
+<br>
+
+```
+[CARRIER SIGNAL LOST]
+```
 
 <br>
 
