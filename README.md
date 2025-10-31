@@ -180,6 +180,7 @@
 ```
 
 <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" height="100"/>
+
 ```
 [CARRIER SIGNAL LOST]
 ```
