@@ -5,6 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:39ff14&height=200&section=header&text=N111X&fontSize=80&fontColor=0a0a0a&animation=twinkling&fontAlignY=35"/>
 
 <br>
+
 ```
 ███╗   ██╗ ██╗ ██╗ ██╗██╗  ██╗
 ████╗  ██║███║███║███║╚██╗██╔╝
@@ -258,6 +259,7 @@ Reverse & develop
 <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" height="100"/>
 
 <br>
+
 ```
 [CARRIER SIGNAL LOST]
 ```
