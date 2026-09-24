@@ -1,22 +1,150 @@
-<div align="center"> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- IRIX · INDIGO MAGIC DESKTOP --> <!-- ═══════════════════════════════════════════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:15343B,100:7C8A8F&height=118&section=header&text=n111x&fontColor=E8E8E8&fontSize=64&fontAlignY=52&desc=IRIX%20Release%206.5%20%C2%B7%20IP32%20%C2%B7%20MIPS%20R10000&descAlignY=80&descColor=BFE3EC" width="100%" alt="n111x"/> <img src="https://img.shields.io/badge/SYSTEM-4Dwm-24707F?style=plastic&labelColor=15343B"/> <img src="https://img.shields.io/badge/DESKTOP-Indigo_Magic-6E5B97?style=plastic&labelColor=2E2540"/> <img src="https://img.shields.io/badge/SHELL-winterm-24707F?style=plastic&labelColor=15343B"/>
-<br><br>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2600&pause=900&color=2D8FA6&center=true&vCenter=true&width=660&lines=Starting+the+Indigo+Magic+Desktop...;I+don't+trust+software+%E2%80%94+I+read+it." alt="login"/> </div> <br> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 4Dwm WINTERM --> <!-- ═══════════════════════════════════════════════════════════════ -->
- ┌─┬──────────────────────────────────────────────┬─┬─┐
- │≡│ winterm — /usr/people/n111x                   │▫│▪│
- ├─┴──────────────────────────────────────────────┴─┴─┤
- │ n111x 1# whoami                                     │
- │ reverse engineer · malware analyst · vuln research  │
- │                                                     │
- │ n111x 2# hinv                                       │
- │ Processor ... MIPS · low-level systems              │
- │ Focus ....... binaries and how they break           │
- │ n111x 3# _                                          │
- └─────────────────────────────────────────────────────┘
-<div align="center"> <img src="https://img.shields.io/github/followers/N111X?style=plastic&logo=github&logoColor=BFE3EC&label=FOLLOWERS&labelColor=15343B&color=24707F"/> <img src="https://img.shields.io/github/stars/N111X?style=plastic&logo=github&logoColor=BFE3EC&label=STARS&labelColor=15343B&color=24707F"/> <img src="https://img.shields.io/badge/DISASM-8086→x64-6E5B97?style=plastic&labelColor=2E2540"/> </div> <br> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- TOOLCHEST --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center">
-⌗ TOOLCHEST
-<img src="https://img.shields.io/badge/RE-IDA·Ghidra·x64dbg·Frida-24707F?style=plastic&labelColor=15343B"/> <img src="https://img.shields.io/badge/MALWARE-PE--bear·DIE·YARA·ProcMon-24707F?style=plastic&labelColor=15343B"/> <br> <img src="https://img.shields.io/badge/EXPLOIT-pwntools·ROPgadget·GEF-6E5B97?style=plastic&labelColor=2E2540"/> <img src="https://img.shields.io/badge/NET-Wireshark·Burp·nmap-6E5B97?style=plastic&labelColor=2E2540"/> <br> <img src="https://img.shields.io/badge/LANG-C·C++·ASM·Go·Python·Bash-7C8A8F?style=plastic&labelColor=3A4144"/> </div> <br> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- PROJECTS --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center">
-⌗ PROJECTS
-<a href="https://github.com/N111X/AutoDorks"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N111X&repo=AutoDorks&theme=dark&bg_color=141A1C&title_color=2D8FA6&text_color=C6CDCF&icon_color=6E5B97&border_color=24707F&hide_border=false" alt="AutoDorks"/> </a> <a href="https://github.com/N111X/sniffer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N111X&repo=sniffer&theme=dark&bg_color=141A1C&title_color=2D8FA6&text_color=C6CDCF&icon_color=6E5B97&border_color=24707F&hide_border=false" alt="sniffer"/> </a> <br> <a href="https://github.com/N111X/CoverTCP"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N111X&repo=CoverTCP&theme=dark&bg_color=141A1C&title_color=2D8FA6&text_color=C6CDCF&icon_color=6E5B97&border_color=24707F&hide_border=false" alt="CoverTCP"/> </a> </div> <br> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- METRICS --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&theme=dark&bg_color=141A1C&title_color=2D8FA6&text_color=C6CDCF&icon_color=6E5B97&border_color=24707F&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N111X&layout=compact&theme=dark&bg_color=141A1C&title_color=2D8FA6&text_color=C6CDCF&border_color=24707F&hide_border=false&langs_count=6&hide=html,css" width="49%" alt="languages"/> </div> <br> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- CONNECT --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center">
-⌗ CONNECT
-<a href="https://www.youtube.com/@NIX-l3v"> <img src="https://img.shields.io/badge/YouTube-%40NIX--l3v-24707F?style=plastic&logo=youtube&logoColor=BFE3EC&labelColor=15343B"/> </a> <a href="https://x.com/N1IX_D"> <img src="https://img.shields.io/badge/Twitter-%40N1IX__D-24707F?style=plastic&logo=x&logoColor=BFE3EC&labelColor=15343B"/> </a> <a href="https://www.linkedin.com/in/synixd/"> <img src="https://img.shields.io/badge/LinkedIn-synixd-24707F?style=plastic&logo=linkedin&logoColor=BFE3EC&labelColor=15343B"/> </a> <a href="mailto:n11ixxor64@gmail.com"> <img src="https://img.shields.io/badge/Email-mail-24707F?style=plastic&logo=gmail&logoColor=BFE3EC&labelColor=15343B"/> </a> </div> <br> <div align="center"> <sub><code>n111x 4# logout</code></sub> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C8A8F,100:15343B&height=42&section=footer&text=connection%20closed&fontColor=E8E8E8&fontSize=17&fontAlignY=56" width="100%" alt="logout"/> </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# n111x
+
+`Release 6.5 · IP32 · MIPS R10000`
+
+<img src="https://img.shields.io/badge/SYSTEM-IP32-24707F?style=plastic&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/WM-4Dwm-6E5B97?style=plastic&labelColor=2E2540"/>
+<img src="https://img.shields.io/badge/SHELL-winterm-24707F?style=plastic&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/DISASM-8086→x64-6E5B97?style=plastic&labelColor=2E2540"/>
+
+<br>
+
+_booting workstation… "I don't trust software — I read it."_
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WINTERM                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/≡__winterm-%2Fusr%2Fpeople%2Fn111x-24707F?style=plastic&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/‗-_-7C8A8F?style=plastic&labelColor=3A4144"/>
+<img src="https://img.shields.io/badge/▫-_-7C8A8F?style=plastic&labelColor=3A4144"/>
+
+</div>
+
+```
+n111x% whoami
+reverse engineer · malware analyst · vuln research
+
+n111x% hinv
+MIPS · low-level systems · binaries and how they break
+
+n111x% _
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TOOLCHEST                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌗ TOOLCHEST
+
+<img src="https://img.shields.io/badge/RE-IDA·Ghidra·x64dbg·Frida-24707F?style=plastic&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/MALWARE-PE--bear·DIE·YARA·ProcMon-24707F?style=plastic&labelColor=15343B"/>
+<br>
+<img src="https://img.shields.io/badge/EXPLOIT-pwntools·ROPgadget·GEF-6E5B97?style=plastic&labelColor=2E2540"/>
+<img src="https://img.shields.io/badge/NET-Wireshark·Burp·nmap-6E5B97?style=plastic&labelColor=2E2540"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- LANGUAGES                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌗ LANGUAGES
+
+<img src="https://img.shields.io/badge/C-24707F?style=plastic&logo=c&logoColor=BFE3EC&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/C++-24707F?style=plastic&logo=cplusplus&logoColor=BFE3EC&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/Assembly-7C8A8F?style=plastic&labelColor=3A4144"/>
+<img src="https://img.shields.io/badge/Go-24707F?style=plastic&logo=go&logoColor=BFE3EC&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/Python-24707F?style=plastic&logo=python&logoColor=BFE3EC&labelColor=15343B"/>
+<img src="https://img.shields.io/badge/Bash-24707F?style=plastic&logo=gnubash&logoColor=BFE3EC&labelColor=15343B"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECTS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌗ PROJECTS
+
+<a href="https://github.com/N111X/AutoDorks">
+<img src="https://img.shields.io/badge/AutoDorks-dorking-24707F?style=plastic&logo=github&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+<a href="https://github.com/N111X/sniffer">
+<img src="https://img.shields.io/badge/sniffer-packets-24707F?style=plastic&logo=github&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+<a href="https://github.com/N111X/CoverTCP">
+<img src="https://img.shields.io/badge/CoverTCP-covert_channel-6E5B97?style=plastic&logo=github&logoColor=BFE3EC&labelColor=2E2540"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- METRICS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌗ METRICS
+
+<img src="https://img.shields.io/github/followers/N111X?style=plastic&logo=github&logoColor=BFE3EC&label=FOLLOWERS&labelColor=15343B&color=24707F"/>
+<img src="https://img.shields.io/github/stars/N111X?style=plastic&logo=github&logoColor=BFE3EC&label=STARS&labelColor=15343B&color=24707F"/>
+<img src="https://komarev.com/ghpvc/?username=N111X&style=plastic&label=VISITS&color=6E5B97"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌗ CONNECT
+
+<a href="https://www.youtube.com/@NIX-l3v">
+<img src="https://img.shields.io/badge/YouTube-%40NIX--l3v-24707F?style=plastic&logo=youtube&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+<a href="https://x.com/N1IX_D">
+<img src="https://img.shields.io/badge/Twitter-%40N1IX__D-24707F?style=plastic&logo=x&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+<a href="https://www.linkedin.com/in/synixd/">
+<img src="https://img.shields.io/badge/LinkedIn-synixd-24707F?style=plastic&logo=linkedin&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+<a href="mailto:n11ixxor64@gmail.com">
+<img src="https://img.shields.io/badge/Email-mail-24707F?style=plastic&logo=gmail&logoColor=BFE3EC&labelColor=15343B"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><code>n111x% logout — connection closed</code></sub>
+</div>
