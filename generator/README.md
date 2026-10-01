@@ -36,7 +36,7 @@ Material → color: cuerpo=crema (tenue=`dim`), pines=acento, die=azul, marca=mo
 Parallax 2.5D con oscilación sinusoidal (loop exacto). Sin `--depth` usa la luminancia como proxy de profundidad:
 es una aproximación, no profundidad real. Para profundidad real genera el mapa con MiDaS fuera de este repo
 (no se añade torch como dependencia). Salida: `assets/avatar-photo.{gif,svg}`; cambia la ruta en `README.tmpl.md`.
-**Estado**: probada solo con una imagen sintética; falta probarla con tu foto real.
+**Estado**: probada con un retrato sintético + mapa de profundidad (24 frames, hay movimiento, loop OK); falta probarla con tu foto real. Opción `--label` cambia el kicker del marco.
 
 **GIF vs SVG**: los dos son frames discretos, así que la suavidad es la misma. El SVG (SMIL como `<img>`,
 fuente embebida) es vectorial y pesa distinto; el GIF es el formato más robusto (apps móviles, visores sin SMIL).

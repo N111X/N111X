@@ -21,8 +21,10 @@ def to_gray(path, size):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--photo", required=True); ap.add_argument("--depth")
+    ap.add_argument("--label", default="// perfil · parallax", help="kicker del marco")
     ap.add_argument("--parallax", type=float, default=0.035, help="amplitud (fracción del ancho)")
     a = ap.parse_args()
+    av.A["label"] = a.label   # el marco del GIF usa A['label'] (por defecto el del chip)
     W, H = av.COLS * 4, av.ROWS * 8                       # resolución de trabajo (celda 1:2)
     lum = to_gray(a.photo, (W, H))
     lum = (lum - lum.min()) / max(1e-6, lum.max() - lum.min())          # autocontraste
