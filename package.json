@@ -1,0 +1,8 @@
+{
+  "name": "n111x-profile",
+  "private": true,
+  "scripts": {
+    "build-readme": "make build-readme",
+    "build-readme:png": "make png"
+  }
+}

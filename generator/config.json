@@ -1,0 +1,87 @@
+{
+  "_nota": "Fuente única de verdad: textos, links, paleta y parámetros del avatar. Los valores [PENDIENTE] son datos que no tengo.",
+  "handle": "N111X",
+  "banner_text": "NIX",
+  "tagline": "autodidacta, seguridad ofensiva · reversing · maldev",
+  "tags": ["x86-64", "reversing", "maldev"],
+  "palette": {
+    "bg": "#000000",
+    "text": "#e9e9e9",
+    "accent": "#ffd400",
+    "blue": "#6d9eff",
+    "blue_light": "#7aa2ff",
+    "purple": "#c586ff",
+    "dim": "#5f7cc0",
+    "line": "#333333"
+  },
+  "font": {
+    "file": "fonts/VT323-Regular.ttf",
+    "family": "VT323, 'JetBrains Mono', monospace"
+  },
+  "about": {
+    "kicker": "ABOUT",
+    "lines": [
+      ["comment", "// about"],
+      ["plain", "autodidacta. seguridad ofensiva."],
+      ["plain", "ingeniería inversa, desarrollo de exploits,"],
+      ["plain", "malware dev y pentest SCADA."],
+      ["plain", "x86-64 · ARM64 · bajo nivel."],
+      ["comment", "// \"I don't trust software — I read it.\""]
+    ]
+  },
+  "stack": {
+    "kicker": "ARSENAL",
+    "badges": [
+      ["C", "c", "ffd400"],
+      ["C++", "cplusplus", "ffd400"],
+      ["Assembly", "", "ffd400"],
+      ["Python", "python", "6d9eff"],
+      ["Rust", "rust", "6d9eff"],
+      ["Go", "go", "6d9eff"],
+      ["Java", "openjdk", "6d9eff"],
+      ["Bash", "gnubash", "c586ff"],
+      ["PowerShell", "powershell", "c586ff"],
+      ["Linux", "linux", "c586ff"],
+      ["GDB", "gnu", "5f7cc0"],
+      ["Ghidra", "", "5f7cc0"],
+      ["radare2", "", "5f7cc0"]
+    ],
+    "label_color": "000000"
+  },
+  "areas": {
+    "kicker": "AREAS",
+    "command": "tree ./areas",
+    "items": ["malware dev", "ingeniería inversa", "desarrollo de exploits", "pentest SCADA"]
+  },
+  "projects": {
+    "kicker": "PROYECTOS",
+    "cards": [
+      {"name": "AutoDorks", "tag": "dorking", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/AutoDorks"},
+      {"name": "sniffer", "tag": "packets", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/sniffer"},
+      {"name": "CoverTCP", "tag": "covert channel", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/CoverTCP"}
+    ]
+  },
+  "stats": {
+    "kicker": "STATS",
+    "enabled": true
+  },
+  "footer": "[@N111X]",
+  "links": {
+    "blog": "[PENDIENTE]",
+    "x": "https://x.com/N1IX_D",
+    "github": "https://github.com/N111X",
+    "mail": "mailto:n11ixxor64@gmail.com"
+  },
+  "avatar": {
+    "label": "// QFP-48 · rotY",
+    "cols": 78,
+    "rows": 30,
+    "font_px": 20,
+    "frames": 24,
+    "fps": 12,
+    "tilt_deg": 46,
+    "display_w": 380,
+    "supersample": 3,
+    "ramp": " .:-=+*#%@"
+  }
+}
