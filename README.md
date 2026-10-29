@@ -39,9 +39,9 @@
 
 <table>
 <tr>
-<td width="33%"><a href="https://github.com/N111X/AutoDorks"><img src="assets/card-1.svg" width="280" alt="AutoDorks — [PENDIENTE: 1 línea]"></a></td>
-<td width="33%"><a href="https://github.com/N111X/sniffer"><img src="assets/card-2.svg" width="280" alt="sniffer — [PENDIENTE: 1 línea]"></a></td>
-<td width="33%"><a href="https://github.com/N111X/CoverTCP"><img src="assets/card-3.svg" width="280" alt="CoverTCP — [PENDIENTE: 1 línea]"></a></td>
+<td width="33%"><a href="https://github.com/N111X/AutoDorks"><img src="assets/card-1.svg" width="280" alt="AutoDorks — Dorking + export JSON/HTML"></a></td>
+<td width="33%"><a href="https://github.com/N111X/sniffer"><img src="assets/card-2.svg" width="280" alt="sniffer — Sniffer en Python + guía"></a></td>
+<td width="33%"><a href="https://github.com/N111X/CoverTCP"><img src="assets/card-3.svg" width="280" alt="CoverTCP — Canal encubierto TCP en C"></a></td>
 </tr>
 </table>
 
