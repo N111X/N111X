@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<a href="https://x.com/N1IX_D"><img src="https://img.shields.io/badge/X-ffd400?style=flat-square&labelColor=000000&logoColor=000000&logo=x" alt="X"></a> <a href="https://github.com/N111X"><img src="https://img.shields.io/badge/GitHub-6d9eff?style=flat-square&labelColor=000000&logoColor=000000&logo=github" alt="GitHub"></a> <a href="mailto:n11ixxor64@gmail.com"><img src="https://img.shields.io/badge/Mail-c586ff?style=flat-square&labelColor=000000&logoColor=000000&logo=gmail" alt="Mail"></a> <img src="https://img.shields.io/badge/Blog%20%5BPENDIENTE%5D-5f7cc0?style=flat-square&labelColor=000000&logoColor=ffffff" alt="Blog [PENDIENTE]">
+<a href="https://x.com/N1IX_D"><img src="https://img.shields.io/badge/X-ffd400?style=flat-square&labelColor=000000&logoColor=000000&logo=x" alt="X"></a> <a href="https://github.com/N111X"><img src="https://img.shields.io/badge/GitHub-6d9eff?style=flat-square&labelColor=000000&logoColor=000000&logo=github" alt="GitHub"></a> <a href="mailto:n11ixxor64@gmail.com"><img src="https://img.shields.io/badge/Mail-c586ff?style=flat-square&labelColor=000000&logoColor=000000&logo=gmail" alt="Mail"></a>
 
 <img src="assets/footer.svg" width="880" alt="[@N111X]">
 
