@@ -128,7 +128,7 @@ def build_all(about_w, avatar_h_display):
     ASSETS.mkdir(exist_ok=True)
     print("[sections]")
     banner()
-    for k in ("about", "stack", "areas", "projects", "stats"):
+    for k in ("about", "stack", "areas", "projects", "snake", "stats"):
         header(k if k != "stack" else "arsenal", CFG[k]["kicker"])
     about_box(about_w, avatar_h_display)
     areas()

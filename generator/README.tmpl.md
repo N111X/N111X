@@ -30,7 +30,7 @@
 {{cards}}
 </tr>
 </table>
-{{stats}}
+{{snake}}{{stats}}
 <div align="center">
 
 {{contact}}

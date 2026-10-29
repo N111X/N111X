@@ -45,6 +45,12 @@
 </tr>
 </table>
 
+<img src="assets/hdr-snake.svg?v=62b01c9f" width="880" alt="// ACTIVIDAD">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/N111X/N111X/output/snake.svg" width="880" alt="Contribuciones de GitHub como serpiente">
+</p>
+
 <img src="assets/hdr-stats.svg?v=aac18ad2" width="880" alt="// STATS">
 
 <p align="left">
