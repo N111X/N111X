@@ -57,6 +57,7 @@ Recomendado: GIF en el README. Tamaños actuales: ver salida de `make build-read
 ## Supuestos y límites
 
 - Datos tomados del README anterior del perfil (handle, X, mail, nombres de repos); descripciones de repos tomadas de sus README.
+- Las imágenes de `assets/` llevan `?v=<hash>` en el README para saltarse la caché de camo de GitHub.
 - Las tablas de GitHub dibujan bordes de celda propios: no se pueden quitar desde el README.
 - Imágenes con fondo negro propio → se ven igual en tema claro y oscuro; no hace falta `<picture>`.
 - Stats (github-readme-stats / streak) dependen de instancias públicas de terceros que pueden estar caídas o limitadas;

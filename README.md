@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="880" alt="N111X — autodidacta, seguridad ofensiva · reversing · maldev · x86-64 · reversing · maldev">
+<img src="assets/banner.svg?v=a063784a" width="880" alt="N111X — autodidacta, seguridad ofensiva · reversing · maldev · x86-64 · reversing · maldev">
 
 </div>
 
-<img src="assets/hdr-about.svg" width="880" alt="// ABOUT">
+<img src="assets/hdr-about.svg?v=dbf838d2" width="880" alt="// ABOUT">
 
 <table>
 <tr>
-<td width="380" valign="top"><img src="assets/avatar.gif" width="380" alt="Chip QFP en ASCII 3D rotando"></td>
-<td valign="top"><img src="assets/about.svg" width="444" alt="// about autodidacta. seguridad ofensiva. ingeniería inversa, desarrollo de exploits, malware dev y pentest SCADA. x86-64 · ARM64 · bajo nivel. // 'I don't trust software — I read it.'"></td>
+<td width="380" valign="top"><img src="assets/avatar.gif?v=3f5e2b6d" width="380" alt="Chip QFP en ASCII 3D rotando"></td>
+<td valign="top"><img src="assets/about.svg?v=46efa87d" width="444" alt="// about autodidacta. seguridad ofensiva. ingeniería inversa, desarrollo de exploits, malware dev y pentest SCADA. x86-64 · ARM64 · bajo nivel. // 'I don't trust software — I read it.'"></td>
 </tr>
 </table>
 
-<img src="assets/hdr-arsenal.svg" width="880" alt="// ARSENAL">
+<img src="assets/hdr-arsenal.svg?v=1a4ee903" width="880" alt="// ARSENAL">
 
 <p align="left">
 <img src="https://img.shields.io/badge/C-ffd400?style=flat-square&labelColor=000000&logoColor=000000&logo=c" alt="C">
@@ -31,21 +31,21 @@
 <img src="https://img.shields.io/badge/radare2-5f7cc0?style=flat-square&labelColor=000000&logoColor=000000" alt="radare2">
 </p>
 
-<img src="assets/hdr-areas.svg" width="880" alt="// AREAS">
+<img src="assets/hdr-areas.svg?v=f6a997bd" width="880" alt="// AREAS">
 
-<img src="assets/areas.svg" width="880" alt="areas: malware dev, ingeniería inversa, desarrollo de exploits, pentest SCADA">
+<img src="assets/areas.svg?v=fe9d3307" width="880" alt="areas: malware dev, ingeniería inversa, desarrollo de exploits, pentest SCADA">
 
-<img src="assets/hdr-projects.svg" width="880" alt="// PROYECTOS">
+<img src="assets/hdr-projects.svg?v=40a5d798" width="880" alt="// PROYECTOS">
 
 <table>
 <tr>
-<td width="33%"><a href="https://github.com/N111X/AutoDorks"><img src="assets/card-1.svg" width="280" alt="AutoDorks — Dorking + export JSON/HTML"></a></td>
-<td width="33%"><a href="https://github.com/N111X/sniffer"><img src="assets/card-2.svg" width="280" alt="sniffer — Sniffer en Python + guía"></a></td>
-<td width="33%"><a href="https://github.com/N111X/CoverTCP"><img src="assets/card-3.svg" width="280" alt="CoverTCP — Canal encubierto TCP en C"></a></td>
+<td width="33%"><a href="https://github.com/N111X/AutoDorks"><img src="assets/card-1.svg?v=dfc36d2f" width="280" alt="AutoDorks — Dorking + export JSON/HTML"></a></td>
+<td width="33%"><a href="https://github.com/N111X/sniffer"><img src="assets/card-2.svg?v=b6df509e" width="280" alt="sniffer — Sniffer en Python + guía"></a></td>
+<td width="33%"><a href="https://github.com/N111X/CoverTCP"><img src="assets/card-3.svg?v=3a727a56" width="280" alt="CoverTCP — Canal encubierto TCP en C"></a></td>
 </tr>
 </table>
 
-<img src="assets/hdr-stats.svg" width="880" alt="// STATS">
+<img src="assets/hdr-stats.svg?v=aac18ad2" width="880" alt="// STATS">
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=N111X&show_icons=true&bg_color=000000&title_color=ffd400&text_color=e9e9e9&icon_color=6d9eff&border_color=333333&hide_border=false&ring_color=ffd400" height="150" alt="GitHub stats">
@@ -56,6 +56,6 @@
 
 <a href="https://x.com/N1IX_D"><img src="https://img.shields.io/badge/X-ffd400?style=flat-square&labelColor=000000&logoColor=000000&logo=x" alt="X"></a> <a href="https://github.com/N111X"><img src="https://img.shields.io/badge/GitHub-6d9eff?style=flat-square&labelColor=000000&logoColor=000000&logo=github" alt="GitHub"></a> <a href="mailto:n11ixxor64@gmail.com"><img src="https://img.shields.io/badge/Mail-c586ff?style=flat-square&labelColor=000000&logoColor=000000&logo=gmail" alt="Mail"></a>
 
-<img src="assets/footer.svg" width="880" alt="[@N111X]">
+<img src="assets/footer.svg?v=7dd48739" width="880" alt="[@N111X]">
 
 </div>
