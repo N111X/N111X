@@ -22,8 +22,21 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=ffd400&color_dots=0a0a0a,2a3350,4a5f99,6d9eff,c586ff
+          outputs: dist/snake.svg?color_snake=ffd400&color_dots=1f2633,2f4170,4a5f99,6d9eff,c586ff
 
+
+      # snk genera el SVG con fondo transparente: se inserta un rect negro (como el resto de assets)
+      - name: add black background to snake.svg
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+          p = pathlib.Path("dist/snake.svg")
+          s = p.read_text(encoding="utf-8")
+          vb = re.search(r'viewBox="([^"]+)"', s).group(1).split()
+          rect = f'<rect x="{vb[0]}" y="{vb[1]}" width="{vb[2]}" height="{vb[3]}" fill="#000000"/>'
+          s = re.sub(r'(<svg[^>]*>)', lambda m: m.group(1) + rect, s, count=1)
+          p.write_text(s, encoding="utf-8")
+          PY
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
