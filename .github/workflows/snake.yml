@@ -22,12 +22,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # snk exige el "#" en los colores hex; sin él el CSS queda inválido y no se pinta nada
-          outputs: "dist/snake.svg?color_snake=#6d9eff&color_dots=#1f2633,#5a4a00,#8f7600,#c7a500,#ffd400"
+          outputs: dist/snake.svg?color_snake=6d9eff&color_dots=1f2633,5a4a00,8f7600,c7a500,ffd400
 
 
-      # snk genera el SVG con fondo transparente: se inserta un rect negro (como el resto de assets)
-      - name: add black background to snake.svg
+      # snk (a) genera el SVG con fondo transparente y (b) escribe los colores sin "#", lo que deja las
+      # variables CSS inválidas (nada se pinta). Se corrigen ambas cosas aquí.
+      - name: fix colors and add black background to snake.svg
         run: |
           python3 - <<'PY'
           import re, pathlib
@@ -35,6 +35,7 @@ jobs:
           s = p.read_text(encoding="utf-8")
           vb = re.search(r'viewBox="([^"]+)"', s).group(1).split()
           rect = f'<rect x="{vb[0]}" y="{vb[1]}" width="{vb[2]}" height="{vb[3]}" fill="#000000"/>'
+          s = re.sub(r'(--c(?:s|e|\d+):)([0-9a-fA-F]{6})(?=[;}])', r'\1#\2', s)
           s = re.sub(r'(<svg[^>]*>)', lambda m: m.group(1) + rect, s, count=1)
           p.write_text(s, encoding="utf-8")
           PY
