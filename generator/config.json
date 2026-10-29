@@ -61,6 +61,10 @@
       {"name": "CoverTCP", "tag": "covert channel", "desc": "Canal encubierto TCP en C", "url": "https://github.com/N111X/CoverTCP"}
     ]
   },
+  "snake": {
+    "kicker": "ACTIVIDAD",
+    "enabled": true
+  },
   "stats": {
     "kicker": "STATS",
     "enabled": true

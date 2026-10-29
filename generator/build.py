@@ -37,6 +37,12 @@ def render_readme():
                  f'&ring=ffd400&fire=ffd400&currStreakNum=e9e9e9&currStreakLabel=ffd400&sideNums=e9e9e9&sideLabels=6d9eff'
                  f'&dates=5f7cc0" height="150" alt="GitHub streak">')
         h = ('\n<img src="assets/hdr-stats.svg" width="880" alt="// STATS">\n\n<p align="left">\n' + stats + "\n</p>\n")
+    snake = ""
+    if c["snake"]["enabled"]:
+        # snake.svg lo genera .github/workflows/snake.yml y lo publica en la rama "output"
+        snake = ('\n<img src="assets/hdr-snake.svg" width="880" alt="// ACTIVIDAD">\n\n<p align="center">\n'
+                 f'<img src="https://raw.githubusercontent.com/{c["handle"]}/{c["handle"]}/output/snake.svg" '
+                 'width="880" alt="Contribuciones de GitHub como serpiente">\n</p>\n')
     L = c["links"]
     contact = " ".join([shield("X", "x", "ffd400", L["x"]), shield("GitHub", "github", "6d9eff", L["github"]),
                         shield("Mail", "gmail", "c586ff", L["mail"])])
@@ -44,7 +50,7 @@ def render_readme():
            "avatar_w": AV_W, "about_w": sections.W - AV_W - 56,  # 56 = padding de celdas de tabla de GitHub
            "about_plain": " ".join(s for _, s in c["about"]["lines"]).replace('"', "'"),
            "areas_plain": ", ".join(c["areas"]["items"]), "badges": badges, "cards": cards,
-           "stats": h, "contact": contact, "footer": c["footer"]}
+           "snake": snake, "stats": h, "contact": contact, "footer": c["footer"]}
     t = (HERE / "README.tmpl.md").read_text(encoding="utf-8")
     for k, v in rep.items():
         t = t.replace("{{" + k + "}}", str(v))
@@ -61,7 +67,7 @@ def render_readme():
 def export_png():
     """SVG -> PNG con Chromium headless (Playwright). Opcional: solo si pasas --png."""
     from playwright.sync_api import sync_playwright
-    names = ["banner", "hdr-about", "hdr-arsenal", "hdr-areas", "hdr-projects", "hdr-stats", "about", "areas",
+    names = ["banner", "hdr-about", "hdr-arsenal", "hdr-areas", "hdr-projects", "hdr-snake", "hdr-stats", "about", "areas",
              "card-1", "card-2", "card-3", "footer"]
     with sync_playwright() as pw:
         exe = __import__("os").environ.get("CHROMIUM_PATH")  # p. ej. /opt/pw-browsers/chromium-1194/chrome-linux/chrome
