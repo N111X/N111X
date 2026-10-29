@@ -22,7 +22,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=6d9eff&color_dots=1f2633,5a4a00,8f7600,c7a500,ffd400
+          # snk exige el "#" en los colores hex; sin él el CSS queda inválido y no se pinta nada
+          outputs: "dist/snake.svg?color_snake=#6d9eff&color_dots=#1f2633,#5a4a00,#8f7600,#c7a500,#ffd400"
 
 
       # snk genera el SVG con fondo transparente: se inserta un rect negro (como el resto de assets)
