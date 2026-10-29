@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Regenera todos los assets y el README.md de perfil.  Uso: python generator/build.py [--png] [--apng] [--no-svg] [--only sections|avatar|readme]"""
-import argparse, sys, urllib.parse
+import argparse, hashlib, re, sys, urllib.parse
 sys.path.insert(0, __import__("pathlib").Path(__file__).parent.as_posix())
 from svgkit import CFG, HERE, P
 import sections
@@ -48,6 +48,12 @@ def render_readme():
     t = (HERE / "README.tmpl.md").read_text(encoding="utf-8")
     for k, v in rep.items():
         t = t.replace("{{" + k + "}}", str(v))
+    # Cache-busting: camo (el proxy de imágenes de GitHub) cachea por URL; un hash del contenido
+    # en la URL fuerza a recargar la imagen solo cuando cambia de verdad.
+    def bust(m):
+        f = ROOT / "assets" / m.group(1)
+        return f'src="assets/{m.group(1)}?v={hashlib.sha256(f.read_bytes()).hexdigest()[:8]}"'
+    t = re.sub(r'src="assets/([^"?]+)"', bust, t)
     (ROOT / "README.md").write_text(t, encoding="utf-8")
     print("[readme] README.md")
 
