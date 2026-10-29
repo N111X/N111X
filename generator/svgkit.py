@@ -16,7 +16,7 @@ def font_face_css(text: str) -> str:
     """@font-face con VT323 subseteada (solo los glifos usados) en woff2 base64.
     Un SVG servido como <img> NO puede cargar fuentes externas: hay que embeberla."""
     opts = subset.Options(flavor="woff2", layout_features=[])
-    f = TTFont(str(FONT_PATH))
+    f = TTFont(str(FONT_PATH), recalcTimestamp=False)  # sin marca de tiempo -> build determinista
     s = subset.Subsetter(opts)
     s.populate(text="".join(sorted(set(text))) + " ")
     s.subset(f)

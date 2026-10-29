@@ -56,9 +56,9 @@
   "projects": {
     "kicker": "PROYECTOS",
     "cards": [
-      {"name": "AutoDorks", "tag": "dorking", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/AutoDorks"},
-      {"name": "sniffer", "tag": "packets", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/sniffer"},
-      {"name": "CoverTCP", "tag": "covert channel", "desc": "[PENDIENTE: 1 línea]", "url": "https://github.com/N111X/CoverTCP"}
+      {"name": "AutoDorks", "tag": "dorking", "desc": "Dorking + export JSON/HTML", "url": "https://github.com/N111X/AutoDorks"},
+      {"name": "sniffer", "tag": "packets", "desc": "Sniffer en Python + guía", "url": "https://github.com/N111X/sniffer"},
+      {"name": "CoverTCP", "tag": "covert channel", "desc": "Canal encubierto TCP en C", "url": "https://github.com/N111X/CoverTCP"}
     ]
   },
   "stats": {
@@ -67,7 +67,6 @@
   },
   "footer": "[@N111X]",
   "links": {
-    "blog": "[PENDIENTE]",
     "x": "https://x.com/N1IX_D",
     "github": "https://github.com/N111X",
     "mail": "mailto:n11ixxor64@gmail.com"

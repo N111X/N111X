@@ -39,8 +39,7 @@ def render_readme():
         h = ('\n<img src="assets/hdr-stats.svg" width="880" alt="// STATS">\n\n<p align="left">\n' + stats + "\n</p>\n")
     L = c["links"]
     contact = " ".join([shield("X", "x", "ffd400", L["x"]), shield("GitHub", "github", "6d9eff", L["github"]),
-                        shield("Mail", "gmail", "c586ff", L["mail"]),
-                        shield("Blog " + L["blog"], "", "5f7cc0", None, "ffffff")])
+                        shield("Mail", "gmail", "c586ff", L["mail"])])
     rep = {"handle": c["handle"], "tagline": c["tagline"], "tags_joined": " · ".join(c["tags"]),
            "avatar_w": AV_W, "about_w": sections.W - AV_W - 56,  # 56 = padding de celdas de tabla de GitHub
            "about_plain": " ".join(s for _, s in c["about"]["lines"]).replace('"', "'"),

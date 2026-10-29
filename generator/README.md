@@ -44,7 +44,7 @@ Recomendado: GIF en el README. Tamaños actuales: ver salida de `make build-read
 
 ## Personalizar
 
-- **Textos, links, tags, áreas, proyectos**: `config.json`. Los `[PENDIENTE]` son datos sin rellenar.
+- **Textos, links, tags, áreas, proyectos**: `config.json`. Un `[PENDIENTE]` marca un dato que falta.
 - **Paleta**: `config.json → palette` (afecta SVG, GIF y badges generados por rol; los badges de shields
   llevan los hex en `stack.badges` y en `build.py`).
 - **Fuente**: `config.json → font.file` (por defecto `fonts/VT323-Regular.ttf`, licencia OFL en `fonts/OFL.txt`).
@@ -56,7 +56,7 @@ Recomendado: GIF en el README. Tamaños actuales: ver salida de `make build-read
 
 ## Supuestos y límites
 
-- Datos tomados del README anterior del perfil (handle, X, mail, nombres de repos); descripciones de repos y blog: `[PENDIENTE]`.
+- Datos tomados del README anterior del perfil (handle, X, mail, nombres de repos); descripciones de repos tomadas de sus README.
 - Las tablas de GitHub dibujan bordes de celda propios: no se pueden quitar desde el README.
 - Imágenes con fondo negro propio → se ven igual en tema claro y oscuro; no hace falta `<picture>`.
 - Stats (github-readme-stats / streak) dependen de instancias públicas de terceros que pueden estar caídas o limitadas;
