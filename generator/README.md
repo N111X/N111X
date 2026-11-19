@@ -18,8 +18,8 @@ Flags de `build.py`: `--only sections|avatar|readme`, `--png`, `--apng`, `--no-s
 
 | Archivo | Origen |
 |---|---|
-| `assets/banner.svg` | figlet "Standard" (letra a letra, 3 espacios de separación) + tagline + tags |
-| `assets/hdr-*.svg` | kicker azul `// X` + regla amarilla `──◆──` (dibujada con primitivas) |
+| `assets/banner.svg` | ventana de Vim: figlet "Standard" (letra a letra) + tagline + tags, números de línea, `~` y statusline |
+| `assets/hdr-*.svg` | fold cerrado de Vim: `+-- SECCIÓN ----` (cyan sobre `#666666`) |
 | `assets/about.svg`, `areas.svg`, `card-N.svg`, `footer.svg` | `sections.py` |
 | `assets/avatar.gif` / `avatar.svg` | `avatar.py` (Ruta A: chip QFP 3D procedural) |
 | `README.md` | `README.tmpl.md` + `config.json` (badges de shields.io, tablas) |
@@ -45,10 +45,13 @@ Recomendado: GIF en el README. Tamaños actuales: ver salida de `make build-read
 ## Personalizar
 
 - **Textos, links, tags, áreas, proyectos**: `config.json`. Un `[PENDIENTE]` marca un dato que falta.
-- **Paleta**: `config.json → palette` (afecta SVG, GIF y badges generados por rol; los badges de shields
-  llevan los hex en `stack.badges` y en `build.py`).
+- **Paleta**: `config.json → palette`, tomada de `elflord.vim` de Vim (runtime/colors, Last Change 2026 Oct 02;
+  difiere de la elflord clásica de muchas distros). Los badges de shields llevan los hex en `stack.badges` y en
+  `build.py`; la serpiente, en `.github/workflows/snake.yml`.
 - **Fuente**: `config.json → font.file` (por defecto `fonts/VT323-Regular.ttf`, licencia OFL en `fonts/OFL.txt`).
-  VT323 **no** trae `─ │ ├ └ ◆ →`; por eso reglas y árbol se dibujan con líneas/polígonos SVG.
+  VT323 **no** trae `─ │ ├ └ ◆ →`; por eso el árbol se dibuja con líneas SVG. El `~` de fin de buffer también es un path (el glifo
+  de VT323 queda ambiguo a ~22 px).
+- **Intérprete**: en algunos contenedores `python3` y `pip` apuntan a versiones distintas; si falla un `import`, usa `PY=/usr/bin/python3 make build-readme`.
   Cada SVG embebe la fuente subseteada en woff2/base64 (un SVG cargado como `<img>` no puede usar fuentes externas).
 - **Modelo del avatar**: edita `build_chip()` en `avatar.py` (lista de `box(...)`). Para un `.obj`, sustituye
   `MODEL` por los triángulos `(v0,v1,v2,normal,material)` leídos del archivo.

@@ -1,18 +1,31 @@
 {
-  "_nota": "Fuente única de verdad: textos, links, paleta y parámetros del avatar. Los valores [PENDIENTE] son datos que no tengo.",
+  "_nota": "Fuente única de verdad: textos, links, paleta y parámetros del avatar. Paleta = vim elflord (runtime/colors/elflord.vim, Last Change 2026 Oct 02).",
   "handle": "N111X",
   "banner_text": "NIX",
   "tagline": "autodidacta, seguridad ofensiva · reversing · maldev",
-  "tags": ["x86-64", "reversing", "maldev"],
+  "tags": [
+    "x86-64",
+    "reversing",
+    "maldev"
+  ],
   "palette": {
     "bg": "#000000",
-    "text": "#e9e9e9",
-    "accent": "#ffd400",
-    "blue": "#6d9eff",
-    "blue_light": "#7aa2ff",
-    "purple": "#c586ff",
-    "dim": "#5f7cc0",
-    "line": "#333333"
+    "text": "#00ffff",
+    "comment": "#80a0ff",
+    "constant": "#ff00ff",
+    "identifier": "#40ffff",
+    "statement": "#aa4444",
+    "preproc": "#ff80ff",
+    "type": "#60ff60",
+    "special": "#ff0000",
+    "linenr": "#ffff00",
+    "nontext": "#0000ff",
+    "status_fg": "#000000",
+    "status_bg": "#00ffff",
+    "status_nc": "#00cdcd",
+    "fold_bg": "#666666",
+    "white": "#ffffff",
+    "dim": "#008b8b"
   },
   "font": {
     "file": "fonts/VT323-Regular.ttf",
@@ -21,44 +34,138 @@
   "about": {
     "kicker": "ABOUT",
     "lines": [
-      ["comment", "// about"],
-      ["plain", "autodidacta. seguridad ofensiva."],
-      ["plain", "ingeniería inversa, desarrollo de exploits,"],
-      ["plain", "malware dev y pentest SCADA."],
-      ["plain", "x86-64 · ARM64 · bajo nivel."],
-      ["comment", "// \"I don't trust software — I read it.\""]
+      [
+        "comment",
+        "// about"
+      ],
+      [
+        "plain",
+        "autodidacta. seguridad ofensiva."
+      ],
+      [
+        "plain",
+        "ingeniería inversa,"
+      ],
+      [
+        "plain",
+        "desarrollo de exploits,"
+      ],
+      [
+        "plain",
+        "malware dev y pentest SCADA."
+      ],
+      [
+        "plain",
+        "x86-64 · ARM64 · bajo nivel."
+      ],
+      [
+        "comment",
+        "// \"I don't trust software — I read it.\""
+      ]
     ]
   },
   "stack": {
     "kicker": "ARSENAL",
     "badges": [
-      ["C", "c", "ffd400"],
-      ["C++", "cplusplus", "ffd400"],
-      ["Assembly", "", "ffd400"],
-      ["Python", "python", "6d9eff"],
-      ["Rust", "rust", "6d9eff"],
-      ["Go", "go", "6d9eff"],
-      ["Java", "openjdk", "6d9eff"],
-      ["Bash", "gnubash", "c586ff"],
-      ["PowerShell", "powershell", "c586ff"],
-      ["Linux", "linux", "c586ff"],
-      ["GDB", "gnu", "5f7cc0"],
-      ["Ghidra", "", "5f7cc0"],
-      ["radare2", "", "5f7cc0"]
+      [
+        "C",
+        "c",
+        "60ff60"
+      ],
+      [
+        "C++",
+        "cplusplus",
+        "60ff60"
+      ],
+      [
+        "Assembly",
+        "",
+        "60ff60"
+      ],
+      [
+        "Python",
+        "python",
+        "80a0ff"
+      ],
+      [
+        "Rust",
+        "rust",
+        "80a0ff"
+      ],
+      [
+        "Go",
+        "go",
+        "80a0ff"
+      ],
+      [
+        "Java",
+        "openjdk",
+        "80a0ff"
+      ],
+      [
+        "Bash",
+        "gnubash",
+        "ff80ff"
+      ],
+      [
+        "PowerShell",
+        "powershell",
+        "ff80ff"
+      ],
+      [
+        "Linux",
+        "linux",
+        "ff80ff"
+      ],
+      [
+        "GDB",
+        "gnu",
+        "ffff00"
+      ],
+      [
+        "Ghidra",
+        "",
+        "ffff00"
+      ],
+      [
+        "radare2",
+        "",
+        "ffff00"
+      ]
     ],
     "label_color": "000000"
   },
   "areas": {
     "kicker": "AREAS",
     "command": "tree ./areas",
-    "items": ["malware dev", "ingeniería inversa", "desarrollo de exploits", "pentest SCADA"]
+    "items": [
+      "malware dev",
+      "ingeniería inversa",
+      "desarrollo de exploits",
+      "pentest SCADA"
+    ]
   },
   "projects": {
     "kicker": "PROYECTOS",
     "cards": [
-      {"name": "AutoDorks", "tag": "dorking", "desc": "Dorking + export JSON/HTML", "url": "https://github.com/N111X/AutoDorks"},
-      {"name": "sniffer", "tag": "packets", "desc": "Sniffer en Python + guía", "url": "https://github.com/N111X/sniffer"},
-      {"name": "CoverTCP", "tag": "covert channel", "desc": "Canal encubierto TCP en C", "url": "https://github.com/N111X/CoverTCP"}
+      {
+        "name": "AutoDorks",
+        "tag": "dorking",
+        "desc": "Dorking + export JSON/HTML",
+        "url": "https://github.com/N111X/AutoDorks"
+      },
+      {
+        "name": "sniffer",
+        "tag": "packets",
+        "desc": "Sniffer en Python + guía",
+        "url": "https://github.com/N111X/sniffer"
+      },
+      {
+        "name": "CoverTCP",
+        "tag": "covert channel",
+        "desc": "Canal encubierto TCP en C",
+        "url": "https://github.com/N111X/CoverTCP"
+      }
     ]
   },
   "snake": {
@@ -76,7 +183,7 @@
     "mail": "mailto:n11ixxor64@gmail.com"
   },
   "avatar": {
-    "label": "// QFP-48 · rotY",
+    "label": "qfp48 [RO]",
     "cols": 78,
     "rows": 30,
     "font_px": 20,
@@ -85,6 +192,7 @@
     "tilt_deg": 46,
     "display_w": 380,
     "supersample": 3,
-    "ramp": " .:-=+*#%@"
+    "ramp": " .:-=+*#%@",
+    "status_right": "rotY  1,1  All"
   }
 }

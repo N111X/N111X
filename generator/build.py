@@ -30,12 +30,12 @@ def render_readme():
     h = ""
     if c["stats"]["enabled"]:
         u = c["handle"]
-        pal = f"bg_color=000000&title_color=ffd400&text_color=e9e9e9&icon_color=6d9eff&border_color=333333&hide_border=false"
-        stats = (f'<img src="https://github-readme-stats.vercel.app/api?username={u}&show_icons=true&{pal}&ring_color=ffd400" '
+        pal = f"bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=666666&hide_border=false"
+        stats = (f'<img src="https://github-readme-stats.vercel.app/api?username={u}&show_icons=true&{pal}&ring_color=ff00ff" '
                  f'height="150" alt="GitHub stats">\n'
-                 f'<img src="https://streak-stats.demolab.com/?user={u}&background=000000&border=333333&stroke=333333'
-                 f'&ring=ffd400&fire=ffd400&currStreakNum=e9e9e9&currStreakLabel=ffd400&sideNums=e9e9e9&sideLabels=6d9eff'
-                 f'&dates=5f7cc0" height="150" alt="GitHub streak">')
+                 f'<img src="https://streak-stats.demolab.com/?user={u}&background=000000&border=666666&stroke=666666'
+                 f'&ring=ff00ff&fire=ffff00&currStreakNum=00ffff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=80a0ff'
+                 f'&dates=80a0ff" height="150" alt="GitHub streak">')
         h = ('\n<img src="assets/hdr-stats.svg" width="880" alt="// STATS">\n\n<p align="left">\n' + stats + "\n</p>\n")
     snake = ""
     if c["snake"]["enabled"]:
@@ -44,8 +44,8 @@ def render_readme():
                  f'<img src="https://raw.githubusercontent.com/{c["handle"]}/{c["handle"]}/output/snake.svg" '
                  'width="880" alt="Contribuciones de GitHub como serpiente">\n</p>\n')
     L = c["links"]
-    contact = " ".join([shield("X", "x", "ffd400", L["x"]), shield("GitHub", "github", "6d9eff", L["github"]),
-                        shield("Mail", "gmail", "c586ff", L["mail"])])
+    contact = " ".join([shield("X", "x", "00ffff", L["x"]), shield("GitHub", "github", "80a0ff", L["github"]),
+                        shield("Mail", "gmail", "ff80ff", L["mail"])])
     rep = {"handle": c["handle"], "tagline": c["tagline"], "tags_joined": " · ".join(c["tags"]),
            "avatar_w": AV_W, "about_w": sections.W - AV_W - 56,  # 56 = padding de celdas de tabla de GitHub
            "about_plain": " ".join(s for _, s in c["about"]["lines"]).replace('"', "'"),
