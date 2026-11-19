@@ -16,7 +16,8 @@ FONT = ImageFont.truetype(str(FONT_PATH), FPX)
 CW = int(round(FONT.getlength("M")))          # ancho de celda (8 px a 20 px de fuente)
 CH = int(round(FPX * 0.8))                   # alto de celda: ratio 1:2 típico de terminal
 BASE = int(round(CH * 0.82))                 # baseline dentro de la celda
-PADX, PADT, PADB = 28, 44, 22
+AV_SH, AV_FS = 38, 30          # statusline más grande: el GIF se muestra reescalado (~0.56x) en el README
+PADX, PADT, PADB = 28, 16, AV_SH + 8
 CANVAS_W, CANVAS_H = PADX * 2 + COLS * CW, PADT + ROWS * CH + PADB
 MAT_BODY, MAT_PIN, MAT_DIE, MAT_MARK = 0, 1, 2, 3
 
@@ -145,7 +146,7 @@ def cell_color(m, k):
     bg = hex2rgb(P["bg"])
     if m == MAT_BODY:
         return hex2rgb(P["text"]) if k >= 4 else hex2rgb(P["dim"])
-    base = hex2rgb({MAT_PIN: P["accent"], MAT_DIE: P["blue"], MAT_MARK: P["purple"]}[m])
+    base = hex2rgb({MAT_PIN: P["linenr"], MAT_DIE: P["comment"], MAT_MARK: P["constant"]}[m])
     return base if k >= 4 else mix(base, bg, 0.45)
 
 
@@ -153,14 +154,16 @@ def cell_color(m, k):
 def render_png_frame(idx, mats):
     img = Image.new("RGB", (CANVAS_W, CANVAS_H), hex2rgb(P["bg"]))
     d = ImageDraw.Draw(img)
-    a, ln = hex2rgb(P["accent"]), hex2rgb(P["line"])
-    d.rectangle([0, 0, CANVAS_W - 1, CANVAS_H - 1], outline=a, width=2)          # filete 2px
-    d.rectangle([10, 10, CANVAS_W - 11, CANVAS_H - 11], outline=ln, width=1)      # filete 1px a 10px
-    for (x, y, dx, dy) in [(5, 5, 1, 1), (CANVAS_W - 5, 5, -1, 1), (5, CANVAS_H - 5, 1, -1),
-                           (CANVAS_W - 5, CANVAS_H - 5, -1, -1)]:                  # esquinas en L
-        d.line([(x + dx * 18, y), (x, y), (x, y + dy * 18)], fill=a, width=3)
-    for j, ch in enumerate(A["label"]):                                            # kicker con tracking
-        d.text((PADX + j * (CW + 2), 34), ch, font=FONT, fill=hex2rgb(P["blue"]), anchor="ls")
+    sy = CANVAS_H - AV_SH                                                      # StatusLine: negro sobre cyan
+    d.rectangle([0, sy, CANVAS_W, CANVAS_H], fill=hex2rgb(P["status_bg"]))
+    sf = hex2rgb(P["status_fg"])
+    for dx in (0, 1):                                                              # negrita falsa (2 pasadas)
+        sfont = ImageFont.truetype(str(FONT_PATH), AV_FS)
+        d.text((8 + dx, sy + AV_SH - 9), A["label"], font=sfont, fill=sf, anchor="ls")
+        d.text((CANVAS_W - 8 + dx, sy + AV_SH - 9), A["status_right"], font=sfont, fill=sf, anchor="rs")
+    for r in range(ROWS):                                                          # `~` de fin de buffer (NonText)
+        yb = PADT + r * CH + BASE - 5
+        d.line([(8 + t, yb - 3 * math.sin(math.pi * t / 8)) for t in range(0, 17)], fill=hex2rgb(P["nontext"]), width=2)
     for r in range(ROWS):
         for c in range(COLS):
             k = idx[r, c]
@@ -194,8 +197,8 @@ def save_apng(frames, path):
 def save_svg(grids, path):
     """Un <g> por frame; visibilidad conmutada con SMIL (calcMode=discrete). Funciona como <img>."""
     dur = N / FPS
-    body, chars = [frame(CANVAS_W, CANVAS_H)], set(A["label"]) | set(RAMP)
-    body.append(text(PADX, 34, A["label"], FPX, P["blue"], spacing=2))
+    body, chars = [window(CANVAS_W, CANVAS_H, A["label"], A["status_right"], AV_SH, AV_FS)], set(A["label"] + A["status_right"]) | set(RAMP) | {"~"}
+    body.append("".join(tilde(8, PADT + r * CH + BASE) for r in range(ROWS)))
     for i, (idx, mats) in enumerate(grids):
         if i == 0:
             vals, kt = "visible;hidden", "0;" + f"{1 / N:.5f}"

@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=6d9eff&color_dots=1f2633,5a4a00,8f7600,c7a500,ffd400
+          outputs: dist/snake.svg?color_snake=00ffff&color_dots=2a2a2a,3d003d,7a007a,c000c0,ff00ff
 
 
       # snk (a) genera el SVG con fondo transparente y (b) escribe los colores sin "#", lo que deja las
